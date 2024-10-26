@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aminebc/Documents/Devfest24-ELFARI9/Sequel/Timeseries/mlruns/0/c0098405334a42a1b838625cfae8a6b3/artifacts
+end_time: 1729942171814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0098405334a42a1b838625cfae8a6b3
+run_name: nimble-squid-496
+run_uuid: c0098405334a42a1b838625cfae8a6b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729942170080
+status: 3
+tags: []
+user_id: aminebc

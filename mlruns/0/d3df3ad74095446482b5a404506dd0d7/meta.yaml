@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aminebc/Documents/Devfest24-ELFARI9/Sequel/Timeseries/mlruns/0/d3df3ad74095446482b5a404506dd0d7/artifacts
+end_time: 1729939184965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3df3ad74095446482b5a404506dd0d7
+run_name: shivering-pig-381
+run_uuid: d3df3ad74095446482b5a404506dd0d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729939183265
+status: 3
+tags: []
+user_id: aminebc

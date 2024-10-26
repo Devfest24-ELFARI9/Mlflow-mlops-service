@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aminebc/Documents/Devfest24-ELFARI9/Sequel/Timeseries/mlruns/0/de48b840ceee4670bb3f16c050f5b89b/artifacts
+end_time: 1729939381689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de48b840ceee4670bb3f16c050f5b89b
+run_name: unique-finch-522
+run_uuid: de48b840ceee4670bb3f16c050f5b89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729939380040
+status: 3
+tags: []
+user_id: aminebc

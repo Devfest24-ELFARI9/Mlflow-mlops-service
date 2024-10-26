@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aminebc/Documents/Devfest24-ELFARI9/Sequel/Timeseries/mlruns/0/4fd678ea7cf64f20bb4f2d58dc8e8c29/artifacts
+end_time: 1729939349265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fd678ea7cf64f20bb4f2d58dc8e8c29
+run_name: melodic-newt-357
+run_uuid: 4fd678ea7cf64f20bb4f2d58dc8e8c29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729939347641
+status: 3
+tags: []
+user_id: aminebc

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aminebc/Documents/Devfest24-ELFARI9/Sequel/Timeseries/mlruns/0/5007425eb5ab4b328b6141af79b9c971/artifacts
+end_time: 1729942111561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5007425eb5ab4b328b6141af79b9c971
+run_name: charming-yak-56
+run_uuid: 5007425eb5ab4b328b6141af79b9c971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729942109932
+status: 3
+tags: []
+user_id: aminebc
